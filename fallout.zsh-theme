@@ -1,1 +1,1 @@
-PROMPT="> "
+PROMPT=>
