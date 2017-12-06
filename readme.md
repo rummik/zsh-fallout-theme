@@ -1,5 +1,8 @@
 A fallout theme for zsh
 
+Screenshot:
+![](screenshot.png)
+
 Installable with:
-- [zplug](https://github.com/zplug/zplug): `zplug "rummik/zsh-fallout-theme", as:theme`
-- [antigen](https://github.com/zsh-users/antigen): `antigen theme rummik/zsh-fallout-theme`
+- [Zplug](https://github.com/zplug/zplug): `zplug "rummik/zsh-fallout-theme", as:theme`
+- [Antigen](https://github.com/zsh-users/antigen): `antigen theme rummik/zsh-fallout-theme`
